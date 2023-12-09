@@ -1,0 +1,11 @@
+{
+    "aws_account": "123456789123",
+    "region": "us-west-2",
+    "github_owner": "github-username",
+    "github_repository": "your-repo-name",
+    "root_index_file": "index.html",
+    "index_file_location": "",
+    "branch": "main",
+    "domain_name": "website.com",
+    "sub_domain": "dev."
+  }
