@@ -32,7 +32,7 @@ This is use for the CD pipeline in order to pull Github updates automatically.
      3. Paste the GitHub token in the "Value" field.
      4. Click "Create Parameter" to save.
 
-## Setting Up - Add your config.json file.
+## Setting Up - Add your config.json file
 1. Copy the config.example.json file to a new file config.json
 2. Add your config.json file to .gitignore if using a public repository
 3. Update the config values for your AWS account and website
